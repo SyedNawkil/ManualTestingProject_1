@@ -25,15 +25,15 @@ Requirement Traceability Matrix:
 ![Screenshot Capture - 2024-05-26 - 18-00-24](https://github.com/SyedNawkil/ManualTestingProject_1/assets/165632253/78c5e3b8-1b39-4f32-a8a3-8d168e580cc8)
 
 
-Structure
-
+**Structure
+**
 test-cases/: Contains all the test cases.
 
 test-reports/: Contains the test execution reports.
 
 docs/: Contains documentation such as test plans, test strategies, and bug reports.
-
-How to Use
+**
+How to Use**
 
 Review the test plan and strategy in the docs/ folder.
 
