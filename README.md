@@ -39,6 +39,5 @@ Review the test plan and strategy in the docs/ folder.
 
 Check out the test cases in the test-cases/ folder.
 
-Test reports can be found in the test-reports/ folder.
+Test reports and Bug reports can be found in the test-reports/ folder.
 
-Bug reports are in the docs/bug-reports/ folder.
