@@ -26,11 +26,19 @@ Requirement Traceability Matrix:
 
 
 Structure
+
 test-cases/: Contains all the test cases.
+
 test-reports/: Contains the test execution reports.
+
 docs/: Contains documentation such as test plans, test strategies, and bug reports.
+
 How to Use
+
 Review the test plan and strategy in the docs/ folder.
+
 Check out the test cases in the test-cases/ folder.
+
 Test reports can be found in the test-reports/ folder.
+
 Bug reports are in the docs/bug-reports/ folder.
